@@ -5,7 +5,7 @@ public class G {
                 System.out.print(" ");
             }
             for(int k=0;k<=i;k++){
-                System.out.print("3 ");
+                System.out.print("* ");
             }
             System.out.println();
         }
